@@ -1,0 +1,11 @@
+{
+	"id": "Note Sync",
+	"name": "Note Sync",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Obsidian.md plugin to sync (copy) tagged notes to another vault.",
+	"author": "Ruben Olsen Lærk",
+	"authorUrl": "https://github.com/RubenOlsen/notesync/",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}
